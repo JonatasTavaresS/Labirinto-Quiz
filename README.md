@@ -28,7 +28,7 @@
   ```
   > 💡 ou da maneira que você preferir
 
-3. Execute o arquivo [labirinto.py](https://github.com/TavaresJonatas/Labirinto-Quiz/blob/master/labirinto.py "Arquivo labirinto.py")
+3. Execute o arquivo [labirinto.py](https://github.com/TavaresJonatas/Labirinto-Quiz/blob/main/labirinto.py "Arquivo labirinto.py")
   - Abra o prompt de comando de sua máquina
   - Acesse o diretório onde o arquivo está
   - Inicie a execução
@@ -39,7 +39,7 @@
 
 ## ⚡ Jogando
 <p align="center">
-  <img src="https://github.com/TavaresJonatas/Labirinto-Quiz/blob/master/imagens/labirinto_quiz/sistema/fundo.png" width="50%" height="50%" title="Página inicial do Labirinto Quiz" alt="Página Inicial do Labirinto Quiz" />
+  <img src="https://github.com/TavaresJonatas/Labirinto-Quiz/blob/main/imagens/labirinto_quiz/sistema/fundo.png" width="50%" height="50%" title="Página inicial do Labirinto Quiz" alt="Página Inicial do Labirinto Quiz" />
 </p>
 
 <p align="justify">
@@ -47,5 +47,5 @@
 </p>
 
 ## 💻 Autor
-| [<img alt="TavaresJonatas" src="https://github.com/TavaresJonatas.png?size=115" width="115" /><br /><sub>@TavaresJonatas</sub>](https://github.com/TavaresJonatas) |
+| [<img alt="TavaresJonatas" src="https://github.com/TavaresJonatas.png?size=115" width="115" /><br /><sub>@TavaresJonatas</sub>](https://github.com/TavaresJonatas "Jônatas Tavares (@TavaresJonatas)") |
 | :---: |
