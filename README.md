@@ -6,7 +6,7 @@
 </p>
 
 <p align="justify">
-  Programa desenvolvido utilizando a biblioteca Pygame da linguagem Python 3. O jogo foi pensado de modo a auxiliar no aprendizado de crianças do Ensino Fundamental nas disciplinas de Língua Portuguesa e Matemática.
+  Programa desenvolvido utilizando a biblioteca Pygame da linguagem Python 3. Faz parte do <a href="https://github.com/projetoeducapy" title="Perfil do Projeto Educa.py no GitHub">Projeto Educa.py</a> que objetiva usar jogos digitais para promover uma educação inclusiva. O jogo foi pensado de modo a auxiliar no aprendizado de crianças do Ensino Fundamental nas disciplinas de Língua Portuguesa e Matemática.
 </p>
 
 ## 🚀 Iniciando
@@ -28,7 +28,7 @@
   ```
   > 💡 ou da maneira que você preferir
 
-3. Execute o arquivo [labirinto.py](https://github.com/TavaresJonatas/Labirinto-Quiz/blob/main/labirinto.py "Arquivo labirinto.py")
+3. Execute o arquivo [main/labirinto.py](https://github.com/TavaresJonatas/Labirinto-Quiz/blob/main/main/labirinto.py "Arquivo main/labirinto.py")
   - Abra o prompt de comando de sua máquina
   - Acesse o diretório onde o arquivo está
   - Inicie a execução
@@ -38,14 +38,15 @@
   > 💡 ou da maneira que você preferir
 
 ## ⚡ Jogando
-<p align="center">
-  <img src="https://github.com/TavaresJonatas/Labirinto-Quiz/blob/main/imagens/labirinto_quiz/sistema/fundo.png" width="50%" height="50%" title="Página inicial do Labirinto Quiz" alt="Página Inicial do Labirinto Quiz" />
-</p>
-
 <p align="justify">
-  O jogo, como objetiva alcançar crianças, tem um design infantil e bem intuitivo. Após seguir os passos anteriores e conseguir executar o jogo basta escolher entre responder perguntas de Português ou Matemática e, em seguida, escolher entre os níveis Fácil, Médio ou Difícil. Feito isto, basta seguir as instruções exibidas na tela e responder corretamente as perguntas de múltipla escolha para avançar e chegar à saída do labirinto.
+  O jogo, como objetiva alcançar crianças, tem um design infantil e bem intuitivo. Após seguir os passos anteriores e conseguir executar o jogo, basta escolher entre responder perguntas de Português ou Matemática e, em seguida, escolher entre os níveis Fácil, Médio ou Difícil. Feito isso, basta seguir as instruções exibidas na tela e responder corretamente as perguntas de múltipla escolha para avançar e chegar à saída do labirinto. Abaixo, seguem algumas capturas das principais telas do jogo.
 </p>
 
-## 💻 Autor
-| [<img alt="TavaresJonatas" src="https://github.com/TavaresJonatas.png?size=115" width="115" /><br /><sub>@TavaresJonatas</sub>](https://github.com/TavaresJonatas "Jônatas Tavares (@TavaresJonatas)") |
-| :---: |
+<p align="center">
+  Figura 1 - Tela Inicial do Labirinto Quiz<br />
+  <img src="examples/inicio.png" width="50%" height="50%" title="Tela Inicial do Labirinto Quiz" alt="Screenshot da Tela Inicial do Labirinto Quiz" /><br />
+  Figura 2 - Tela de Menu do Labirinto Quiz<br />
+  <img src="examples/menu.png" width="50%" height="50%" title="Tela de Menu do Labirinto Quiz" alt="Screenshot da Tela de Menu do Labirinto Quiz" /><br />
+  Figura 3 - Exemplo do Jogo Labirinto Quiz<br />
+  <img src="examples/labirinto.png" width="50%" height="50%" title="Exemplo do Jogo Labirinto Quiz" alt="Screenshot de Exemplo do Jogo Labirinto Quiz" />
+</p>
