@@ -1,7 +1,7 @@
 # 🎮 Labirinto Quiz
 <p align="center">
   <a href="https://www.pygame.org/">
-    <img src="https://www.pygame.org/images/logo_lofi.png" title="Página de inicial da biblioteca Pygame" alt="Pygame Logo" />
+    <img src="https://www.pygame.org/images/logo_lofi.png" title="Página inicial da biblioteca Pygame" alt="Pygame Logo" />
   </a>
 </p>
 
@@ -43,10 +43,10 @@
 </p>
 
 <p align="center">
-  Figura 1 - Tela Inicial do Labirinto Quiz<br />
+  <b>Figura 1</b> - Tela Inicial do Labirinto Quiz<br />
   <img src="examples/inicio.png" width="50%" height="50%" title="Tela Inicial do Labirinto Quiz" alt="Screenshot da Tela Inicial do Labirinto Quiz" /><br />
-  Figura 2 - Tela de Menu do Labirinto Quiz<br />
+  <b>Figura 2</b> - Tela de Menu do Labirinto Quiz<br />
   <img src="examples/menu.png" width="50%" height="50%" title="Tela de Menu do Labirinto Quiz" alt="Screenshot da Tela de Menu do Labirinto Quiz" /><br />
-  Figura 3 - Exemplo do Jogo Labirinto Quiz<br />
+  <b>Figura 3</b> - Exemplo do Jogo Labirinto Quiz<br />
   <img src="examples/labirinto.png" width="50%" height="50%" title="Exemplo do Jogo Labirinto Quiz" alt="Screenshot de Exemplo do Jogo Labirinto Quiz" />
 </p>
