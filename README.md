@@ -28,7 +28,7 @@
   ```
   > 💡 ou da maneira que você preferir
 
-3. Execute o arquivo [main/labirinto.py](https://github.com/TavaresJonatas/Labirinto-Quiz/blob/main/main/labirinto.py "Arquivo main/labirinto.py")
+4. Execute o arquivo [main/labirinto.py](https://github.com/TavaresJonatas/Labirinto-Quiz/blob/main/main/labirinto.py "Arquivo main/labirinto.py")
   - Abra o prompt de comando de sua máquina
   - Acesse o diretório onde o arquivo está
   - Inicie a execução
