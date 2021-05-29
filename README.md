@@ -1,6 +1,6 @@
 # 🎮 Labirinto Quiz
 <p align="center">
-  <a href="https://www.pygame.org/">
+  <a href="https://www.pygame.org">
     <img src="https://www.pygame.org/images/logo_lofi.png" title="Página inicial da biblioteca Pygame" alt="Pygame Logo" />
   </a>
 </p>
@@ -10,7 +10,7 @@
 </p>
 
 ## 🚀 Iniciando
-1. É necessário ter uma versão de [Python](https://www.python.org/ "Página inicial de Python") ≥ 3.7.7 instalada em sua máquina
+1. É necessário ter uma versão de [Python](https://www.python.org "Página inicial de Python") ≥ 3.7.7 instalada em sua máquina
 
 2. Intale a biblioteca [Pygame](https://www.pygame.org/wiki/GettingStarted "Instalação da biblioteca Pygame") em sua máquina
   ```
@@ -28,7 +28,7 @@
   ```
   > 💡 ou da maneira que você preferir
 
-4. Execute o arquivo [main/labirinto.py](https://github.com/TavaresJonatas/Labirinto-Quiz/blob/main/main/labirinto.py "Arquivo main/labirinto.py")
+4. Execute o arquivo [main/labirinto.py](main/labirinto.py "Arquivo main/labirinto.py")
   - Abra o prompt de comando de sua máquina
   - Acesse o diretório onde o arquivo está
   - Inicie a execução
@@ -50,3 +50,10 @@
   <b>Figura 3</b> - Exemplo do Jogo Labirinto Quiz<br />
   <img src="examples/labirinto.png" width="50%" height="50%" title="Exemplo do Jogo Labirinto Quiz" alt="Screenshot de Exemplo do Jogo Labirinto Quiz" />
 </p>
+
+## 💻 Autor
+<table>
+  <tr align="center">
+    <td><a href="https://github.com/TavaresJonatas" title="Jônatas Tavares"><img src="https://avatars.githubusercontent.com/u/50882611" width="115px" alt="Foto de perfil de Jônatas Tavares" /><br /><sub>Jônatas Tavares</sub></a></td>
+  </tr>
+</table>
