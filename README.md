@@ -54,6 +54,6 @@
 ## 💻 Autor
 <table>
   <tr align="center">
-    <td><a href="https://github.com/TavaresJonatas" title="Jônatas Tavares"><img src="https://avatars.githubusercontent.com/u/50882611" width="115px" alt="Foto de perfil de Jônatas Tavares" /><br /><sub>Jônatas Tavares</sub></a></td>
+    <td><a href="https://github.com/JonatasTavaresS" title="Jônatas Tavares"><img src="https://avatars.githubusercontent.com/u/50882611" width="115px" alt="Foto de perfil de Jônatas Tavares" /><br /><sub>Jônatas Tavares</sub></a></td>
   </tr>
 </table>
